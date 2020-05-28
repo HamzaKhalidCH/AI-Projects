@@ -1,2 +1,2 @@
-# AI_Datasets
+# AI_Projects
 Datasets for AI
